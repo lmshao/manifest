@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- HTTPS access method (default) -->
+  <remote name="origin"
+          fetch="https://github.com/lmshao/"
+          review="" />
+
+  <default revision="main"
+           remote="origin"
+           sync-j="4" />
+
+  <project path="../coreutils" name="coreutils.git" />
+  <project path="../network" name="network.git" />
+  <project path="../rtsp" name="rtsp.git" />
+</manifest>
+</manifest>

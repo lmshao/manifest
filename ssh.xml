@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- SSH access method -->
+  <remote name="origin"
+          fetch="ssh://git@github.com/lmshao"
+          review="" />
+
+  <default revision="master"
+           remote="origin"
+           sync-j="4" />
+
+  <project path="coreutils" name="coreutils.git" />
+  <project path="network" name="network.git" />
+  <project path="rtsp" name="rtsp.git" />
+</manifest>
