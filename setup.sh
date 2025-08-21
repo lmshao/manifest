@@ -34,6 +34,7 @@ projects=(
     "coreutils"
     "network" 
     "rtsp"
+    "remote-desk"
 )
 
 for project in "${projects[@]}"; do

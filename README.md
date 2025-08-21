@@ -7,6 +7,7 @@
 - **coreutils**: 核心工具项目
 - **network**: 网络相关项目  
 - **rtsp**: RTSP流媒体项目
+- **remote-desk**: 远程桌面项目
 
 ## 使用方法
 
@@ -63,6 +64,7 @@ cd workspace
 git clone git@github.com:lmshao/coreutils.git
 git clone git@github.com:lmshao/network.git
 git clone git@github.com:lmshao/rtsp.git
+git clone git@github.com:lmshao/remote-desk.git
 ```
 
 ## 维护
